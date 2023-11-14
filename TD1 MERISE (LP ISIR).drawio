@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T10:32:49.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3jOfEloLUt_eWAAiIXXe" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T09:00:15.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CPqnk4DFcHNcfWqi4Yym" version="22.1.0" type="github">
   <diagram name="Page-1" id="JcwvRXh8fehNPFBF6PG1">
-    <mxGraphModel dx="933" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1098" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
         <mxCell id="c1ondT2D3TYu2VIoZrk9-24" value="montant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="c1ondT2D3TYu2VIoZrk9-16" vertex="1">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c1ondT2D3TYu2VIoZrk9-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="c1ondT2D3TYu2VIoZrk9-6" target="c1ondT2D3TYu2VIoZrk9-19" edge="1">
+        <mxCell id="c1ondT2D3TYu2VIoZrk9-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=entityRelationEdgeStyle;" parent="1" source="c1ondT2D3TYu2VIoZrk9-6" target="c1ondT2D3TYu2VIoZrk9-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c1ondT2D3TYu2VIoZrk9-26" value="contient" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
